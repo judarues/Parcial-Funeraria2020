@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Parcial-Funeraria2020"
+    }
+  },
+  "defaultProject": "Parcial-Funeraria2020",
+  "cli": {
+    "analytics": "2fdb6f85-5eec-4f39-a471-103f1750b471"
+  }
 }
